@@ -1,0 +1,10 @@
+J:\NHibernate开发体系辅助工具\NhibernateHelper\NHibernateHelper.Tests\bin\Debug\NHibernateHelper.Tests.dll
+J:\NHibernate开发体系辅助工具\NhibernateHelper\NHibernateHelper.Tests\bin\Debug\NHibernateHelper.Tests.pdb
+J:\NHibernate开发体系辅助工具\NhibernateHelper\NHibernateHelper.Tests\bin\Debug\NhibernateHelper.exe
+J:\NHibernate开发体系辅助工具\NhibernateHelper\NHibernateHelper.Tests\bin\Debug\nunit.framework.dll
+J:\NHibernate开发体系辅助工具\NhibernateHelper\NHibernateHelper.Tests\bin\Debug\nunit.mocks.dll
+J:\NHibernate开发体系辅助工具\NhibernateHelper\NHibernateHelper.Tests\bin\Debug\NhibernateHelper.pdb
+J:\NHibernate开发体系辅助工具\NhibernateHelper\NHibernateHelper.Tests\bin\Debug\nunit.framework.xml
+J:\NHibernate开发体系辅助工具\NhibernateHelper\NHibernateHelper.Tests\obj\Debug\NHibernateHelper.Tests.csprojResolveAssemblyReference.cache
+J:\NHibernate开发体系辅助工具\NhibernateHelper\NHibernateHelper.Tests\obj\Debug\NHibernateHelper.Tests.dll
+J:\NHibernate开发体系辅助工具\NhibernateHelper\NHibernateHelper.Tests\obj\Debug\NHibernateHelper.Tests.pdb
